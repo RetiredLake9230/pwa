@@ -1,0 +1,42 @@
+{
+  "short_name": "SAP",
+  "name": "Super Auto Pets",
+  "description": "Unblocked Game",
+  "icons": [
+    {
+      "src": "https://animals.history-go.repl.co/sap.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://animals.history-go.repl.co/sap72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://animals.history-go.repl.co/sap96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://animals.history-go.repl.co/sap144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://animals.history-go.repl.co/sap192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://play-lh.googleusercontent.com/UkoqTI9PgdmtEZbWeX5Vm-vgb-Po-cBFOv4YrPrPH28mg9Lnq-BjXhV5H8RDwJUtBBU",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/redir.html",
+  "background_color": "#3367D6",
+  "display": "fullscreen",
+  "scope": "/redir.html",
+  "theme_color": "#3367D6"
+}
